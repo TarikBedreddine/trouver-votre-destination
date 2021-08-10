@@ -1,0 +1,20 @@
+{
+  "name": "trouver-votre-destination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarikBedreddine/trouver-votre-destination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarikBedreddine/trouver-votre-destination/issues"
+  },
+  "homepage": "https://github.com/TarikBedreddine/trouver-votre-destination#readme"
+}
